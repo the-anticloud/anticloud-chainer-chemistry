@@ -1,25 +1,13 @@
-# Advisory Board — CHAINER_CHEMISTRY
+# Advisory Board - CHAINER_CHEMISTRY
 
 **Company:** Anticloud FZ LLE
-**Model:** PAX L5 Narrow L2 General 27B
 **Project:** CHAINER_CHEMISTRY | Category: MEDICINE_DEVELOPMENT
-**Upstream:** https://github.com/pfnet-research/chainer-chemistry (MIT)
 
-## Overview
+## Status
 
-This document covers advisory board for the Anticloud integration of CHAINER_CHEMISTRY.
-
-Chemistry-aware neural networks
-
-## Anticloud Integration
-
-PAX L5 Narrow L2 General 27B is integrated into CHAINER_CHEMISTRY to provide:
-- Local AI inference with zero cloud dependency
-- AIOSS tamper-evident audit chain
-- AES-256 encryption at rest
-- Single-binary deployment
+No advisors are appointed to this project at this time. Advisory appointments, when made, will be recorded here with names, roles, and start dates.
 
 ## Contact
 
-Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+Lois-Kleinner Alpasan - CEO & CTO, Anticloud FZ LLE
 lois@0-1.gg | 0-1.gg
