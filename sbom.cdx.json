@@ -1,0 +1,46 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:ad87ebe1-cee7-596d-a561-696d8a44a437",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-05T16:27:08Z",
+    "component": {
+      "type": "application",
+      "name": "CHAINER_CHEMISTRY",
+      "version": "efe323aa21f6",
+      "bom-ref": "pkg:generic/anticloud/CHAINER_CHEMISTRY@efe323aa21f6",
+      "purl": "pkg:generic/anticloud/CHAINER_CHEMISTRY@efe323aa21f6",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "efe323aa21f63a815130d673781e7cca1ccb72d2"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/pfnet-research/chainer-chemistry"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "library",
+      "name": "chainer",
+      "version": ">=7.0.0",
+      "purl": "pkg:pypi/chainer@7.0.0",
+      "bom-ref": "pypi/chainer@>=7.0.0"
+    }
+  ]
+}
